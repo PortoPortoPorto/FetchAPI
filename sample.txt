@@ -1,0 +1,4 @@
+Access-Control-Allow-Origin: *
+
+
+I am a sample text file. 
